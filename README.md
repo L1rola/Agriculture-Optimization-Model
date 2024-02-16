@@ -6,7 +6,7 @@ Project Charter
 Business Background
 
 - Who is the client? Business Domain?
-  i. Our clients are the farmer coops. A farmer coop (Unica, Agroponiente, La Union) is an intermediary between farmers and buyers.
+-   Our clients are the farmer coops. A farmer coop (Unica, Agroponiente, La Union) is an intermediary between farmers and buyers.
 
 Business Problems
 
