@@ -5,7 +5,7 @@ This project describes how we can improve our business decisions in order to ach
 # 1. Business Background <a class="anchor" id="overview"></a>
 
   - **Who is the client? Business Domain?**
-  1. Our clients are the farmer coops: A farmer coop (Unica, Agroponiente, La Union) is an intermediary between farmers and buyers.
+  1. Our clients are the farmer coops: A farmer coop (Unica, Agroponiente, La Union, etc) is an intermediary between farmers and buyers.
 
 # 2. Business Problems <a class="anchor" id="overview"></a>
 
