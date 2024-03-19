@@ -1,5 +1,18 @@
 #  Descriptive Analysis
 
+
+###  Index
+
+**2020**: 0:268
+
+**2021**: 268:483
+
+**2022**: 483:676
+
+**2023**: 676:948
+
+### Analysis
+
 Just looking at the data, we can get very good insights.
 I was sure our data would not be stationary. Seasonality is a very clear pattern in all the years, this leaves me an entry point when making the prediction:
 - 2020: There is a generally stable trend with some significant fluctuations at certain points. Seasonality shows regular oscillations, indicating clear and consistent seasonal patterns. Residuals are distributed around zero and seem to be quite random.
